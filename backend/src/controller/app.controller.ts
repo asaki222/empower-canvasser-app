@@ -5,9 +5,4 @@ import { AppService } from '../services/app.service';
 export class AppController {
   constructor(private readonly appService: AppService) {}
 
-  // Ping Service in global App
-  @Get('ping')
-  getPing(): string {
-    return this.appService.getPing();
-  }
 }
