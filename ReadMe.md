@@ -7,8 +7,7 @@ The Note Taking App is a web application that allows users to take down notes an
 - **Note Creation**: Users can add new notes by providing the necessary details such as name, email, note content, and date.
 - **Note Deletion**: Users can delete existing notes from the app.
 - **Note Viewing**: Users can view the list of notes stored in the application.
-- **Error Handling**: The application should provide appropriate error handling and error messages for a smooth user experience.
-- **Testing**: The application should be thoroughly tested to ensure its functionality and reliability.
+
 
 ## Prerequisites
 
