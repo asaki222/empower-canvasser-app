@@ -58,7 +58,7 @@ Given more time, the following improvements can be made to the Note Taking App:
 - **Success and Failure Messages**: Implement success and failure messages to provide feedback to the user after performing certain actions.
 - **Error Handling**: Enhance error handling on both the frontend and backend to gracefully handle and display errors to the user.
 - **Enhanced Backend Error Handling**: Implement robust error handling mechanisms on the backend to handle various error scenarios and provide informative error messages.
-
+- **An additional Table: Implement a table for Person to organize data.
 ## Conclusion
 
 The Note Taking App is a simple yet useful web application for taking down notes and storing name information. It leverages React.js and Redux for the frontend, Nest.js
